@@ -4,7 +4,7 @@ DRL based Building Energy Management System for universal deploying in any build
 
 
 
-<img src="HVAC_2.0.gif" alt="Training process monitoring">
+<img src="HVAC_2.0.gif" alt="Training process monitoring" width='80%'>
 
 
 
